@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "."
+		},
+		{
+			"path": "../DDU_spille"
 		}
 	],
 	"settings": {}
